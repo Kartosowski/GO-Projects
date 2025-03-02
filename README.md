@@ -1,2 +1,2 @@
-# GO-Projects
-I'm learning Language GO 🔵, and here is some of mine code 
+# I'm learning Go 🔵
+Feel free to check out some of my code in this repository!
